@@ -1,6 +1,8 @@
 ## Hi, I'm Joilson. Fancy seeing you here!  👋
 
 ![visitors]([https://visitor-badge.laobi.icu/badge?page_id=JojoBR07.JojoBR07)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=JojoBR07.JojoBR07)
+
 
 I am currently a computer science student at [Feevale University](https://feevale.br/) and I am learning C# (.Net) backend development. I work at [Testing Company](https://testingcompany.com.br/) as a Test Engineer and can help you with QA guidance.
 

@@ -1,6 +1,6 @@
 ## Hi, I'm Joilson. Fancy seeing you here!  👋
 
-![visitors]([https://visitor-badge.laobi.icu/badge?page_id=JojoBR07.JojoBR07)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=JojoBR07.JojoBR07)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=JojoBR07.JojoBR07)
 
 

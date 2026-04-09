@@ -3,7 +3,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=JojoBR07.visitor-badgee&color=green&style=flat-square)
 
 
-I am currently a computer science student at [Feevale University](https://feevale.br/) and I am learning C# (.Net) backend development. I work at [Testing Company](https://testingcompany.com.br/) as a Test Engineer and can help you with QA guidance.
+I am currently a computer science student at [Feevale University](https://feevale.br/) and I work at [Testing Company](https://testingcompany.com.br/) as a Test Engineer and can help you with QA guidance.
 
 <!--
 - 🔭 I’m currently working on ...
@@ -54,13 +54,6 @@ me.say_hi()
 ![image](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
 
 </br>
-
-<div align="center">
-  <a href="https://github.com/JojoBR07">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JojoBR07&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JojoBR07&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
 
 #
   <a href="https://www.instagram.com/joilsonoliveiratelles/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

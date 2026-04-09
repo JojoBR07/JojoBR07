@@ -38,9 +38,6 @@ me.say_hi()
 ![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white)
 ![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 </br>
-![image](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![image](https://img.shields.io/badge/-Python%20Requests%20-blue?style=for-the-badge&logo=python&logoColor=white)
-</br>
 ![image](https://img.shields.io/badge/-TestNG%20-red?style=for-the-badge&logo=java&logoColor=white)
 ![image](https://img.shields.io/badge/-PyTest%20-blue?style=for-the-badge&logo=pytest&logoColor=white)
 ![image](https://img.shields.io/badge/-playwright%20-red?style=for-the-badge&logo=playwright&logoColor=green)

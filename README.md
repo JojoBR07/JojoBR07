@@ -19,13 +19,13 @@ I am currently a computer science student at [Feevale University](https://feeval
 ```python
 #!/usr/bin/python
 
-class SoftwareTestEngineer:
+class TestEngineer:
     def __init__(self):
         self.name = "Joilson de Oliveira Telles"
-        self.role = "Software Test Engineer"
+        self.role = "Test Engineer"
         self.currently_working = "Testing Company"
     def say_hi(self):
-        print("Hi, I hope you find some of my repository and examples of code interesting. Good studies!")
+        print("Hi, I am Test Engineer!")
 me = SoftwareTestEngineer()
 me.say_hi()
 ```
@@ -36,7 +36,6 @@ me.say_hi()
 ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white)
-![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 </br>
 ![image](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -48,11 +47,6 @@ me.say_hi()
 ![image](https://img.shields.io/badge/-Selenium%20-yellowgreen?style=for-the-badge&logo=selenium&logoColor=white)
 ![image](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![image](https://img.shields.io/badge/-Appium%20-lightgrey?style=for-the-badge&logo=android&logoColor=white)
-</br>
-![image](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![image](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
-
 </br>
 
 #
